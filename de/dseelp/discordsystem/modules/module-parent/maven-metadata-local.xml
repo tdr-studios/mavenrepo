@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.dseelp.discordsystem.modules</groupId>
+  <artifactId>module-parent</artifactId>
+  <versioning>
+    <release>1.0-ALPHA</release>
+    <versions>
+      <version>1.0-ALPHA</version>
+    </versions>
+    <lastUpdated>20200904184022</lastUpdated>
+  </versioning>
+</metadata>
