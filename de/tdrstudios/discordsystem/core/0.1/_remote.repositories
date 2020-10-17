@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 17 14:17:45 CEST 2020
+core-0.1.jar>=
+core-0.1.pom>=
